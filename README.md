@@ -1,4 +1,4 @@
-# BDDA Assignment
+# BDDA Assignments
 
 ## Project-1: Wholesale Customer Dataset
 This Dataset explores the dataset pertaining to Wholesale of various categories of items using Data Exploration & Visualization, Feature Engineering, Pipeling, Hyper parameter tuning- Grid Search and Randomised Search, and Cross Validation
